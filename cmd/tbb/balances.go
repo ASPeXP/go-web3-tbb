@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/aspexp/go-web3-tbb/database"
+	"github.com/web3coach/the-blockchain-bar/database"
 )
 
 func balancesCmd() *cobra.Command {
